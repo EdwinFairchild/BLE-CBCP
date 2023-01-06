@@ -21,8 +21,11 @@ communicating wirelessly, and that is the goal.
 A simple interface to send data back and forth with no intimate Bluetooth programing knowledge.
 
 Is this wasteful, using a fully blown MCU with 2 cores as a simple Bluetooth UART? Absolutely.
-But more features can be added, like have the BLE device make use of its own onboard peripherals
-and send that data wirelessly.Similar to these cheap Bluetooth RX/TX modules, but with more planned functionality
+However more features can be added, like have the BLE device make use of its own onboard peripherals
+and send that data wirelessly. Similar to these cheap Bluetooth RX/TX modules, but with more planned functionality.
+So it may be wasteful but some people just want to send a byte or two and thats why the modules show below sell like hotcakes.
+
+
 ![image](https://user-images.githubusercontent.com/62710807/211102374-3848f2a3-1bb3-487b-b2ae-0c52b50c4917.png)
 
 
